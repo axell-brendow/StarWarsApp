@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/StarWarsApp/static/css/main.330fc3f8.chunk.css",
+    "main.css": "/StarWarsApp/static/css/main.02e1f516.chunk.css",
     "main.js": "/StarWarsApp/static/js/main.6413bc34.chunk.js",
     "main.js.map": "/StarWarsApp/static/js/main.6413bc34.chunk.js.map",
     "runtime-main.js": "/StarWarsApp/static/js/runtime-main.165abf16.js",
@@ -9,10 +9,10 @@
     "static/js/2.8f6e22b7.chunk.js": "/StarWarsApp/static/js/2.8f6e22b7.chunk.js",
     "static/js/2.8f6e22b7.chunk.js.map": "/StarWarsApp/static/js/2.8f6e22b7.chunk.js.map",
     "index.html": "/StarWarsApp/index.html",
-    "precache-manifest.0669e1bc45b66af4a20ac5804c473111.js": "/StarWarsApp/precache-manifest.0669e1bc45b66af4a20ac5804c473111.js",
+    "precache-manifest.c2e5d725f186148ab0094c6713646609.js": "/StarWarsApp/precache-manifest.c2e5d725f186148ab0094c6713646609.js",
     "service-worker.js": "/StarWarsApp/service-worker.js",
     "static/css/2.17e5ed98.chunk.css.map": "/StarWarsApp/static/css/2.17e5ed98.chunk.css.map",
-    "static/css/main.330fc3f8.chunk.css.map": "/StarWarsApp/static/css/main.330fc3f8.chunk.css.map",
+    "static/css/main.02e1f516.chunk.css.map": "/StarWarsApp/static/css/main.02e1f516.chunk.css.map",
     "static/media/styles.css": "/StarWarsApp/static/media/starwars_title.eac81dde.svg",
     "static/media/icons8-lightsaber-dark.svg": "/StarWarsApp/static/media/icons8-lightsaber-dark.947a6800.svg",
     "static/media/icons8-lightsaber-light.svg": "/StarWarsApp/static/media/icons8-lightsaber-light.e38596a9.svg",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.165abf16.js",
     "static/css/2.17e5ed98.chunk.css",
     "static/js/2.8f6e22b7.chunk.js",
-    "static/css/main.330fc3f8.chunk.css",
+    "static/css/main.02e1f516.chunk.css",
     "static/js/main.6413bc34.chunk.js"
   ]
 }
