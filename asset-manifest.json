@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df7be887.chunk.css",
+    "main.js": "/static/js/main.6413bc34.chunk.js",
+    "main.js.map": "/static/js/main.6413bc34.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4a782e9a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4a782e9a.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.8f6e22b7.chunk.js": "/static/js/2.8f6e22b7.chunk.js",
+    "static/js/2.8f6e22b7.chunk.js.map": "/static/js/2.8f6e22b7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e0693c5d10db8bd1ce4a5781e63f57ab.js": "/precache-manifest.e0693c5d10db8bd1ce4a5781e63f57ab.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.df7be887.chunk.css.map": "/static/css/main.df7be887.chunk.css.map",
+    "static/media/styles.css": "/static/media/starwars_title.eac81dde.svg",
+    "static/media/icons8-lightsaber-dark.svg": "/static/media/icons8-lightsaber-dark.947a6800.svg",
+    "static/media/icons8-lightsaber-light.svg": "/static/media/icons8-lightsaber-light.e38596a9.svg",
+    "static/media/sad_stormtrooper.svg": "/static/media/sad_stormtrooper.a0b4e94a.svg",
+    "static/media/search-solid.svg": "/static/media/search-solid.c6a0effb.svg",
+    "static/media/starwars_films_right_order.jpg": "/static/media/starwars_films_right_order.3cc6a820.jpg",
+    "static/media/starwars_people_lukeskywalker.png": "/static/media/starwars_people_lukeskywalker.7ae7d230.png",
+    "static/media/starwars_planets_tethtve.png": "/static/media/starwars_planets_tethtve.6fd79fd5.png",
+    "static/media/starwars_planets_twelve.jpg": "/static/media/starwars_planets_twelve.1feda032.jpg",
+    "static/media/starwars_spaceship_millenniumfalcon.png": "/static/media/starwars_spaceship_millenniumfalcon.d5d8f500.png",
+    "static/media/starwars_species_top_10.jpg": "/static/media/starwars_species_top_10.7d7159f4.jpg",
+    "static/media/starwars_vehicles_fifty.png": "/static/media/starwars_vehicles_fifty.c117ee3d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a782e9a.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.8f6e22b7.chunk.js",
+    "static/css/main.df7be887.chunk.css",
+    "static/js/main.6413bc34.chunk.js"
+  ]
+}
